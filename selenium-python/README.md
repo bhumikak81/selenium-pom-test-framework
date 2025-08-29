@@ -190,10 +190,3 @@ This project demonstrates:
 4. Ensure all tests pass
 5. Submit pull request
 
-## License
-
-This project is for educational and demonstration purposes.
-
----
-
-Built with Python, Selenium, and pytest
