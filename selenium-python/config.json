@@ -1,0 +1,24 @@
+{
+  "browser": "chrome",
+  "base_url": "https://www.demoblaze.com",
+  "headless": false,
+  "implicit_wait": 10,
+  "explicit_wait": 10,
+  "page_load_timeout": 30,
+  "script_timeout": 30,
+  "window_size": {
+    "width": 1920,
+    "height": 1080
+  },
+  "test_config": {
+    "screenshot_on_failure": true,
+    "screenshot_on_success": false,
+    "video_recording": false,
+    "retry_failed_tests": 1
+  },
+  "reporting": {
+    "allure": true,
+    "html": true,
+    "json": false
+  }
+}
